@@ -15,5 +15,13 @@
   },
   "keywords": [
     "canvas"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MGN00150905/Multiplayer-Canvas-App-using-Node.js-and-p5-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MGN00150905/Multiplayer-Canvas-App-using-Node.js-and-p5-/issues"
+  },
+  "homepage": "https://github.com/MGN00150905/Multiplayer-Canvas-App-using-Node.js-and-p5-#readme"
 }
